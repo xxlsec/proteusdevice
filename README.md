@@ -11,8 +11,8 @@ See wiki page for further information.
 
 REF:
 
-[Reddit thread] (https://www.reddit.com/r/linux_devices/comments/e1bxzo/linux_kernel_540_on_our_ethernet_equipped_mobile/)
+[Reddit thread](https://www.reddit.com/r/linux_devices/comments/e1bxzo/linux_kernel_540_on_our_ethernet_equipped_mobile/)
 
-[Twitter] (https://twitter.com/xxlsec/)
+[Twitter](https://twitter.com/xxlsec/)
 
 
