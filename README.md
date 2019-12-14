@@ -7,7 +7,7 @@ Mobile secure computing device documentation and images.
 
 'proteusdevice' is immediately available for developers and commercial integrators as platform product. Contact info (@) xxlsec.com for more information.
 
-See wiki page for further information.
+See [wiki page](https://github.com/xxlsec/proteusdevice/wiki) for more details.
 
 REF:
 
